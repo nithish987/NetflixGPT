@@ -12,6 +12,9 @@
 -Create SignUp User Account
 -Implement Sign In user Api
 -created redux store with userSlice
+-Implemented Signout 
+-update profile
+-fetch from TMDB movies
 
 
 
